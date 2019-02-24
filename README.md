@@ -2,9 +2,13 @@
 
 Projeto com o objetivo de praticar orientação a objetos usando node
 
-## Iniciando
+## Executando
 
-Todo o código fonte está disponível em: ```https://github.com/thiagomartos/node-poo```
+Com as dependencias do nodejs e typescript instaladas basta compilar e executar o arquivo Main.
+
+```tsc ./Main.ts```
+
+```node ./Main.js```
 
 ## Técnologias utilizadas
 
